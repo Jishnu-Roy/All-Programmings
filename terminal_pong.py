@@ -55,7 +55,7 @@ def run():
              b=""
          pl=""
          for x in range(0, width):
-             if px==x:
+             if cx==x:
                  pl+='='
              else:
                  pl+='.'
